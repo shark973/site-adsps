@@ -1,0 +1,150 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: History v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-01-13 17:35+0530\n"
+"Last-Translator: admin <onistaweb@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ history
+#: 404.php:35
+msgid "OOOOOOPS!"
+msgstr ""
+
+# @ history
+#: 404.php:36
+msgid "the page was not found"
+msgstr ""
+
+# @ history
+#: archive.php:31 index.php:30
+msgid "<i class=\"fa fa-angle-left\"></i> Previous"
+msgstr ""
+
+# @ history
+#: archive.php:32 index.php:31
+msgid "Next <i class=\"fa fa-angle-right\"></i>"
+msgstr ""
+
+# @ history
+#: archive.php:33 index.php:32 search.php:31 template-parts/content.php:89 template-parts/content-events.php:54 template-parts/content-page.php:26
+msgid "Page"
+msgstr ""
+
+# @ history
+#: comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+# @ history
+#: search.php:29
+msgid "<i class=\"fa fa-angle-double-left\"></i>"
+msgstr ""
+
+# @ history
+#: search.php:30
+msgid "<i class=\"fa fa-angle-double-right\"></i>"
+msgstr ""
+
+# @ history
+#: header.php:104
+msgid "OPENING HOURS:"
+msgstr ""
+
+# @ history
+#: header.php:120
+msgid "Toggle navigation"
+msgstr ""
+
+# @ history
+#: header.php:191
+msgid "Blog"
+msgstr ""
+
+# @ history
+#: header.php:194
+msgid "Error Page"
+msgstr ""
+
+# @ history
+#: header.php:197
+msgid "Search Results for: %s"
+msgstr ""
+
+# @ history
+#: template-parts/content.php:24
+msgid "Featured"
+msgstr ""
+
+# @ history
+#: template-parts/content.php:85 template-parts/content-events.php:50 template-parts/content-page.php:22
+msgid "Pages:"
+msgstr ""
+
+# @ history
+#: template-parts/content.php:95
+msgid "Tags:"
+msgstr ""
+
+# @ history
+#: template-parts/content.php:102
+msgid "Category:"
+msgstr ""
+
+# @ history
+#: template-parts/content.php:105
+msgid "Share"
+msgstr ""
+
+# @ history
+#: template-parts/content.php:120 template-parts/content.php:121
+msgid "Read More"
+msgstr ""
+
+# @ history
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+# @ history
+#: template-parts/content-none.php:19
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+# @ history
+#: template-parts/content-none.php:23
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+# @ history
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+# @ history
+#: template-parts/content-page.php:33
+msgid "Edit"
+msgstr ""
+
+# @ history
+#: template-parts/format-audio.php:14
+msgid "Your browser does not support the audio element."
+msgstr ""
+
+# @ history
+#: template-parts/format-video.php:15
+msgid "Your browser does not support the video tag."
+msgstr ""
+

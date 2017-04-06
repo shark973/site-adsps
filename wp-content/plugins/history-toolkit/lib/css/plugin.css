@@ -1,0 +1,8 @@
+.map {
+    position: relative;
+	width: 100%;
+}
+.map-canvas {
+    height: 110px;
+    width: 100%;
+}
